@@ -3,11 +3,9 @@ C module 4
 
 EX NO:4-c) Length of a string. 
 
-Date:19/10/2025 
-
-Name: VASANTH S 
-
-Ref no: 25017538
+Date:26/03/2026
+Name: Ashwin Kumar .M
+Ref no: 25009408
 
 AIM:
 To find the length of a given string.
